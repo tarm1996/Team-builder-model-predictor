@@ -26,4 +26,4 @@ Uses these stats to predict the result:
 
 This engine uses a decision tree model in order to predict which players a coach should use to win a game.
 
-Product:
+Product: result_predictor_liga_nos.py
