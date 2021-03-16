@@ -23,7 +23,8 @@ Uses these stats to predict the result:
 - Yellow cards;
 - Red cards.
 
-
-This engine uses a decision tree model in order to predict which players a coach should use to win a game.
-
 Product: result_predictor_liga_nos.py
+
+Script to gather the data: Scrap Football stats 2.ipynb
+
+Script to build the model: model_final_project.ipynb
